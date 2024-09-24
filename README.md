@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karmvirjadeja&label=Profile%20views&color=0e75b6&style=flat" alt="karmvirjadeja" /> </p>
 
 
-- 🌱 I’m currently learning **Software Development and System Design**
-
+- 🌱 I’m currently learning **Software Development,System Design,Devops**
+- ✨ Will look forward to **Machine Learning, MLOps and Creating Scalable AI infrastrucutre using Golang**
 - 💬 Ask me about **MERN,BLOCKCHAIN,AI**
 
 - 📫 How to reach me **jadejakarmvir12@gmail.com**
