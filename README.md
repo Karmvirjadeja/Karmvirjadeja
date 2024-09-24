@@ -8,7 +8,7 @@
 
 
 - 🌱 Master in **Software Development,System Design,Devops**
-- ✨ Jack in **Machine Learning, MLOps and Creating Scalable AI Infrastrucutre**
+- ✨ Currently Jack in **Machine Learning, MLOps and Creating Scalable AI Infrastrucutre**
 - 💬 Ask me about **MERN,BLOCKCHAIN,AI**
 
 - 📫 How to reach me **jadejakarmvir12@gmail.com**
