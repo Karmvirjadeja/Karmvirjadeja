@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Karmvir Jadeja</h1>
 <h3 align="center">"Generalist Problems Solver"</h3>
 <h3 align="center">"Innovating at Every Layer: Integrating Tech and Solving Problems"</h3>
-<h3 align="center">"Jack of all trades, master of Some"</h3>
+
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karmvirjadeja&label=Profile%20views&color=0e75b6&style=flat" alt="karmvirjadeja" /> </p>
 
 
-- 🌱 Master in **Software Development,System Design,Devops**
-- ✨ Currently Jack in **Machine Learning, MLOps and Creating Scalable AI Infrastrucutre**
+- 🌱 Learning **Software Development,System Design,Devops**
 - 💬 Ask me about **MERN,BLOCKCHAIN,AI**
 
 - 📫 How to reach me **jadejakarmvir12@gmail.com**
