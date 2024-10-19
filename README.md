@@ -2,7 +2,7 @@
 <h3 align="center">"Generalist Problem Solver"</h3>
 <h3 align="center">"Innovating at Every Layer: Integrating Tech and Solving Problems"</h3>
 
-<img align="right" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.gifer.com/EmhT.gif)" alt="Coding" width="400">
+<img align="right" src="https://i.gifer.com/EmhT.mp4" alt="Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karmvirjadeja&label=Profile%20views&color=0e75b6&style=flat" alt="karmvirjadeja" /> </p>
 
