@@ -2,11 +2,11 @@
 <h3 align="center">"Generalist Problem Solver"</h3>
 <h3 align="center">"Innovating at Every Layer: Integrating Tech and Solving Problems"</h3>
 
-<img align="right" src="[https://komarev.com/ghpvc/?username=karmvirjadeja&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F488499890838048465%2F&psig=AOvVaw0R2-BDcgmp-viEcTk-lOE5&ust=1729431983190000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPC4g6rKmokDFQAAAAAdAAAAABAc)" alt="Coding" width="400">
+<img align="right" src="https://c.tenor.com/amcmum0mwucAAAAd/tenor.gif" alt="Coding" width="400">
 
 <p align="left">
   <img 
-    src="https://c.tenor.com/amcmum0mwucAAAAd/tenor.gif" 
+    src="" 
     alt="karmvirjadeja" 
   />
 </p>
