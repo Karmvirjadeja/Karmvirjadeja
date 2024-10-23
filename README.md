@@ -4,12 +4,7 @@
 
 <img align="right" src="https://c.tenor.com/amcmum0mwucAAAAd/tenor.gif" alt="Coding" width="400">
 
-<p align="left">
-  <img 
-    src="" 
-    alt="karmvirjadeja" 
-  />
-</p>
+
 
 
 - 🌱 Learning **Software Development,System Design,Devops**
