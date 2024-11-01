@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karmvir Jadeja</h1>
-<h3 align="center">"Generalist Problem Solver"</h3>
+<h3 align="center">"Problem Solver"</h3>
 <h3 align="center">"Innovating at Every Layer: Integrating Tech and Solving Problems"</h3>
 
 <img align="right" src="https://c.tenor.com/amcmum0mwucAAAAd/tenor.gif" alt="Coding" width="400">
